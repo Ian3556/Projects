@@ -31,5 +31,5 @@ A full-stack fashion E-Commerce webstie featuring product listings, admin dashbo
 **Status :**
 🟡 Demo / MVP
 
-**👇 For More Details**
--📄 [Project README](yeeny-fashion/README.md)
+**For More Details :**
+[YEENY README](yeeny-fashion/README.md)
