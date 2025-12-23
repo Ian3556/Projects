@@ -32,4 +32,4 @@ A full-stack fashion E-Commerce webstie featuring product listings, admin dashbo
 🟡 Demo / MVP
 
 **👇 For More Details**
-- (Yeeny.md)
+-📄 [Project README](yeeny-fashion/README.md)
