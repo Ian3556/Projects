@@ -25,11 +25,11 @@ A full-stack fashion E-Commerce webstie featuring product listings, admin dashbo
 - Backend  : Firebase (Auth, Firestore)
 - Hosting  : Vercel
 
-**Live Demo :**
-🔗 https://yeeny-fashion.vercel.app/
-
 **Status :**
 🟡 Demo / MVP
+
+**Live Demo :**
+🔗 https://yeeny-fashion.vercel.app/
 
 **For More Details :**
 [YEENY README](yeeny-fashion/README.md)
