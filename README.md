@@ -1,7 +1,5 @@
 # Multi Project Portfolio 
 
----
-
 ## 📌 Overview
 ### This repository serves as a **portfolio hub** for  multiple projects, including:
 - **Full-Stack Web Applications**
@@ -10,8 +8,6 @@
 - **Demo-ready Commercial Concepts**
 
 Each Projects includes its own documentation, setup insturctions and live demo (where available)
-
----
 
 ## 🧩 Projects
 ### YEENY - Fashion E-Commerce Platform 
@@ -36,4 +32,4 @@ A full-stack fashion E-Commerce webstie featuring product listings, admin dashbo
 🟡 Demo / MVP
 
 **👇 For More Details**
-Yeeny.md
+- (Yeeny.md)
